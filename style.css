@@ -1,0 +1,21 @@
+.jumbotron, #project{
+    padding-top: 5rem;
+    background-color: #A2D9FF;
+}
+
+footer{
+    background-color: #A2D9FF;
+    padding-bottom: 0.5rem;
+}
+footer p a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFF;
+}
+section{
+    padding-top: 5rem;
+}
+.nav-link:hover{
+    color: #FFFFFF;
+    font-weight: bold;
+}

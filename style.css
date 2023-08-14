@@ -1,4 +1,4 @@
-.jumbotron, #project{
+.jumbotron, #project, #contactMe{
     padding-top: 5rem;
     background-color: #A2D9FF;
 }
@@ -18,4 +18,13 @@ section{
 .nav-link:hover{
     color: #FFFFFF;
     font-weight: bold;
+}
+
+.gallery-thumbnail{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#gallery .row > * {
+    padding: 0;
 }
